@@ -30,7 +30,6 @@ class Products extends Component {
               {keyProduct[0]}
             </Link>
           </div>
-          
         ))}
       </div>
     );
